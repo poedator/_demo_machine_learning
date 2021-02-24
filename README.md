@@ -6,4 +6,4 @@ simple notebooks / test tasks / etc
 - [St George classification](/georges_image_classification) classification of very diverse dataset, (TF2, transfer learning, Xception)
 
 # Time series 
-- **industrial_platform_time_series** - classic ML, (LightGBM)
+- [Electrolysis time_series](/electrolysis_time_series) - classic ML, (LightGBM)
